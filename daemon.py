@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# by Alex Hirzel <alex@hirzel.us> under the BSD license
+# by Alex Hirzel <alex@hirzel.us> under the MIT license
 
 import pandas as pd
 import numpy as np
