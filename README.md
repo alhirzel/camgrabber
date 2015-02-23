@@ -11,6 +11,13 @@ features:
  - [ ] really support multiple webcams
  - [ ] add events so that you can compile .jpg -> .mpg and upload to YouTube daily
 
+Minor stuff:
+
+ - [ ] support an interval=? option for each webcam (Eagle Harbor for example
+       only updates every 2 minutes)
+ - [ ] don't block on every download; if a download stalls, this will halt the
+       whole daemon
+
 
 Resources for the future:
 
